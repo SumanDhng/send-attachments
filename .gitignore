@@ -1,0 +1,11 @@
+# Ignore these
+/*
+__pycache__/
+venv/
+*.env
+
+# DO NOT IGNORE THESE FILES:
+!main.py
+!.gitignore
+!*.txt
+!*.md
